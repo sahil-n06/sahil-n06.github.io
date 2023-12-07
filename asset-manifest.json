@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc3e04b3.css",
+    "main.js": "/static/js/main.91238257.js",
+    "static/media/moderate sweat.png": "/static/media/moderate sweat.8957327f5b0f4b1ab052.png",
+    "static/media/Diet.jpeg": "/static/media/Diet.00fb4e4bddae843c270a.jpeg",
+    "static/media/chatgpt.jpg": "/static/media/chatgpt.44d7d5148421a8347001.jpg",
+    "static/media/chatgptLogo.jpg": "/static/media/chatgptLogo.b006098169655f96ca3b.jpg",
+    "static/media/rocket.svg": "/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/bookmark.svg": "/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "static/media/home.svg": "/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "index.html": "/index.html",
+    "main.bc3e04b3.css.map": "/static/css/main.bc3e04b3.css.map",
+    "main.91238257.js.map": "/static/js/main.91238257.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3e04b3.css",
+    "static/js/main.91238257.js"
+  ]
+}
